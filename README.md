@@ -12,4 +12,4 @@
 ## Примечание
 
 * UPDATE:
-> ToDO by Hatsune Mikun
+> By Hatsune Mikun
