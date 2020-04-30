@@ -1,4 +1,4 @@
-# Instagram-SUBUP-Script [![Build Status](https://travis-ci.org/AminoJS/Amino.JS.svg?branch=master)](https://github.com/MDraft-js/ToDO)
+# Instagram-SUBUP-Script [![Build Status](https://travis-ci.org/AminoJS/Amino.JS.svg?branch=master)](https://github.com/MDraft-js/Instagram-SUBUP-Script)
 > Скрипт накрутки подписчиков для инстаграма.
 * Красивое оформление консоли
 * Простой SetTimeout
