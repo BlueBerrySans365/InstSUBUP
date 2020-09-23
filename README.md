@@ -7,9 +7,13 @@
 
 ## Авторы
 
-* **[Hatsune Mikun](https://github.com/Hatsune-Mikun)**
+* **[Hatsune Mikun](https://github.com/Hatsune-Mikun)** - Creator | Создатель
+* **[Nick Salt](https://github.com/BlueBerrySans365)** - Fixed script for [Termux] | Починил скрипт для [Termux]
 
 ## Примечание
 
-* UPDATE:
-> By Hatsune Mikun
+* UPDATE : Changed name in script file
+
+> [Termux users] To use this script you need nodejs { apt install nodejs | pkg install node js }.
+
+> Original By Hatsune Mikun
