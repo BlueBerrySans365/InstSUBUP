@@ -15,7 +15,7 @@ function log ( msg, style ) {
 }
 var str = 'Запуск скрипта активирован!';
 console.log ( '%c%s', 'color: green; font: 1.2rem/1 Tahoma;', str );
-time=prompt("Введите количество секунд между действиями","30");
+time=prompt.get("Введите количество секунд между действиями","30");
 var a=document.getElementsByClassName("_6VtSN");
 var b=document.getElementsByClassName("-Cab_");
 function touch() {
