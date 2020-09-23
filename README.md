@@ -25,9 +25,10 @@ Commands :
 
 * To start script you need to open cmd.exe ( To open it press WIN+R end enter cmd.exe )
 * Then enter ``node (drag here script file)`` and press enter. 
+
 {RUS}
-> Нужны : [NodeJS](https://nodejs.org/)
-> [Скачать скрипт](https://github.com/BlueBerrySans365/InstSUBUP.git)
+> * Нужны : [NodeJS](https://nodejs.org/)
+> * [Скачать скрипт](https://github.com/BlueBerrySans365/InstSUBUP.git)
 
 * Чтобы запустить скрипт вам нужно открыть cmd.exe ( Чтобы её открыть нажмите клавишы WIN+R, напишите cmd.exe и нажмите enter )
 * Потом введите ``node (перетащите сюда файл скрипта)`` и нажмите enter.
