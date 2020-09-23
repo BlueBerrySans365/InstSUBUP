@@ -1,3 +1,4 @@
+var prompt = require("prompt");
 var consoleStyles = {
     'h1': 'font: 2.5em/1 Arial; color: crimson;',
     'h2': 'font: 2em/1 Arial; color: orangered;',
