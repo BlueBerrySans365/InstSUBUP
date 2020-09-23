@@ -20,8 +20,8 @@ Commands :
 [ Windows - CMD ]
 
 {ENG}
-> Required : [NodeJS](https://nodejs.org/)
-> [Download script](https://github.com/BlueBerrySans365/InstSUBUP.git)
+> * Required : [NodeJS](https://nodejs.org/)
+> * [Download script](https://github.com/BlueBerrySans365/InstSUBUP.git)
 
 * To start script you need to open cmd.exe ( To open it press WIN+R end enter cmd.exe )
 * Then enter ``node (drag here script file)`` and press enter. 
