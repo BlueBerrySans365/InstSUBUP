@@ -1,0 +1,20 @@
+{
+    "name": "InstSUBUP",
+    "description": "",
+    "version": "1.0.0",
+    "main": "script.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/BlueBerrySans365/InstSUBUP.git"
+    },
+    "keywords": [],
+    "author": "n/a",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/BlueBerrySans365/InstSUBUP/issues"
+    },
+    "homepage": "https://github.com/BlueBerrySans365/InstSUBUP"
+  }
