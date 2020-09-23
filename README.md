@@ -5,6 +5,33 @@
 * Подчёркнуто Авторство
 * propt
 
+##How to install | Как установить
+
+[ Android - Termux ]
+
+Commands :
+``apt update``
+``apt upgrade``
+``apt install nodejs``
+``apt install git``
+``git clone https://github.com/BlueBerrySans365/InstSUBUP``
+``node InstSUBUP/script.js``
+
+[ Windows - CMD ]
+
+{ENG}
+Required : [NodeJS](https://nodejs.org/)
+[Download script](https://github.com/BlueBerrySans365/InstSUBUP.git)
+
+* To start script you need to open cmd.exe ( To open it press WIN+R end enter cmd.exe )
+* Then enter ``node (drag here script file)`` and press enter. 
+{RUS}
+Нужны : [NodeJS](https://nodejs.org/)
+[Скачать скрипт](https://github.com/BlueBerrySans365/InstSUBUP.git)
+
+* Чтобы запустить скрипт вам нужно открыть cmd.exe ( Чтобы её открыть нажмите клавишы WIN+R, напишите cmd.exe и нажмите enter )
+* Потом введите ``node (перетащите сюда файл скрипта)`` и нажмите enter.
+
 ## Авторы
 
 * **[Hatsune Mikun](https://github.com/Hatsune-Mikun)** - Creator | Создатель
@@ -12,7 +39,7 @@
 
 ## Примечание
 
-* UPDATE : Changed name in script file
+* UPDATE : Changed name in script file and in name of repo. | Added instructions and translations for them.
 
 > [Termux users] To use this script you need nodejs { apt install nodejs | pkg install node js }.
 
