@@ -10,12 +10,12 @@
 >[ Android - Termux ]
 
 Commands :
-*``apt update``
-*``apt upgrade``
-*``apt install nodejs``
-*``apt install git``
-*``git clone https://github.com/BlueBerrySans365/InstSUBUP``
-*``node InstSUBUP/script.js``
+* ``apt update``
+* ``apt upgrade``
+* ``apt install nodejs``
+* ``apt install git``
+* ``git clone https://github.com/BlueBerrySans365/InstSUBUP``
+* ``node InstSUBUP/script.js``
 
 [ Windows - CMD ]
 
