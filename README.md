@@ -5,7 +5,7 @@
 * Подчёркнуто Авторство
 * propt
 
-##How to install | Как установить
+## How to install | Как установить
 
 >[ Android - Termux ]
 
